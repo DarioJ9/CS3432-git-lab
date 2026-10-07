@@ -1,0 +1,2 @@
+# CS3432-git-lab
+FIRST STEPS USING GIT
